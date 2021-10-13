@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Conimbad
-- 👀 I’m interested in ...  Web frontend and backend developer
+- 👀 I’m interested in ...  Web frontend and backend development
 - 🌱 I’m currently learning ... PHP programing language
 - 💞️ I’m looking to collaborate on ... some open source GNU/Linux system
 - 📫 How to reach me ... my twitter @m_escobedom
